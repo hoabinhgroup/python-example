@@ -1,8 +1,8 @@
 #Hiểu và sử dụng List, Tuple, Dictionary, Set.
-# fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry"]
 
-# fruits.append("orange")  # Thêm phần tử vào danh sách
-# print(fruits)  # In danh sách sau khi thêm
+fruits.append("orange")  # Thêm phần tử vào danh sách
+print(fruits)  # In danh sách sau khi thêm
 
 # fruits.remove("banana")  # Xóa phần tử khỏi danh sách
 # print(fruits)  # In danh sách sau khi xóa
@@ -28,7 +28,7 @@
 #  print(f"{key}: {value}") # In dictionary
 
 # hàm
-def greet(name):
-    print(f"Hello, {name}!")
+# def greet(name):
+#     print(f"Hello, {name}!")
 
-greet("Tuấn")
+# greet("Tuấn")
